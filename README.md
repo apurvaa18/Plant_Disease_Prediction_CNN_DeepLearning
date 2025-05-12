@@ -16,6 +16,7 @@ The model was trained on a dataset of labeled plant leaf images. You can use pub
 - [PlantVillage Dataset (Kaggle)](https://www.kaggle.com/datasets/emmarex/plantdisease)
 
 🧪 Requirements
+
 Python 3.7+
 TensorFlow / Keras
 NumPy

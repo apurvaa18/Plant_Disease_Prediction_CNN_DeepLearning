@@ -18,8 +18,8 @@ The model was trained on a dataset of labeled plant leaf images. You can use pub
 
 Requirements
 
-Python 3.7+
-TensorFlow / Keras
-NumPy
-Matplotlib
+Python 3.7+,
+TensorFlow / Keras,
+NumPy,
+Matplotlib,
 OpenCV ( for image processing)

@@ -9,3 +9,7 @@ Features
 - Convolutional Neural Network (CNN) model using Keras/TensorFlow.
 - Model training, evaluation, and performance visualization.
 - Prediction on test images with output visualizations.
+
+Dataset
+The model was trained on a dataset of labeled plant leaf images. You can use publicly available datasets such as:
+- [PlantVillage Dataset (Kaggle)](https://www.kaggle.com/datasets/emmarex/plantdisease)

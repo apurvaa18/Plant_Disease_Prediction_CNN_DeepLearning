@@ -15,7 +15,8 @@ Dataset
 The model was trained on a dataset of labeled plant leaf images. You can use publicly available datasets such as:
 - [PlantVillage Dataset (Kaggle)](https://www.kaggle.com/datasets/emmarex/plantdisease)
 
-🧪 Requirements
+
+Requirements
 
 Python 3.7+
 TensorFlow / Keras
